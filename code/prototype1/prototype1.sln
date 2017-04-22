@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSporkP1.Driver", "FSporkP1.Driver\FSporkP1.Driver.csproj", "{F720EEFB-6003-48D8-BEEE-80E98EBB7B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSporkP1.Interfaces", "FSporkP1.Interfaces\FSporkP1.Interfaces.csproj", "{F2FA64D1-1BF3-4E68-87B1-2983358AFB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSporkP1.NativeTypes", "FSporkP1.NativeTypes\FSporkP1.NativeTypes.csproj", "{1DE9A5CE-49C0-472E-A3A0-EA6FBE5E6446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F720EEFB-6003-48D8-BEEE-80E98EBB7B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F720EEFB-6003-48D8-BEEE-80E98EBB7B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F720EEFB-6003-48D8-BEEE-80E98EBB7B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F720EEFB-6003-48D8-BEEE-80E98EBB7B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FA64D1-1BF3-4E68-87B1-2983358AFB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FA64D1-1BF3-4E68-87B1-2983358AFB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FA64D1-1BF3-4E68-87B1-2983358AFB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FA64D1-1BF3-4E68-87B1-2983358AFB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE9A5CE-49C0-472E-A3A0-EA6FBE5E6446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE9A5CE-49C0-472E-A3A0-EA6FBE5E6446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE9A5CE-49C0-472E-A3A0-EA6FBE5E6446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE9A5CE-49C0-472E-A3A0-EA6FBE5E6446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
